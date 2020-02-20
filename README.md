@@ -1,2 +1,2 @@
-# -freedomfinancialnetwork-assessment
-Freedom Financial Network's Code Assessment
+# -React.JS Sample
+React.JS Code sample
